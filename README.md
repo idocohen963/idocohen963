@@ -1,9 +1,9 @@
 <h1 align="center">👋 Ido Cohen</h1>
 
 <p align="center">
-  <b>2nd‑year Computer Science Student</b> at <i>[Your University]</i><br>
+  <b>2nd‑year Computer Science Student<br>
   <b>Currently Exploring:</b> Backend development, Data Structures & Algorithms<br>
-  <b>Career Goal:</b> Student role in backend engineering or systems programming
+  <b>Career Goal:</b> Student position in backend engineering or systems programming
 </p>
 
 ---
@@ -23,9 +23,6 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
 <img src="https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" />
 <img src="https://img.shields.io/badge/-C-black?style=flat&logo=c" />
-
-**Frameworks & Libraries:**  
-Spring Boot, Pandas
 
 **Tools & Platforms:**  
 Git, Linux (WSL/Ubuntu), Docker
@@ -52,9 +49,3 @@ IntelliJ IDEA, VS Code
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idocohen963&show_icons=true&theme=radical" alt="Ido's GitHub Stats" />
-</p>
