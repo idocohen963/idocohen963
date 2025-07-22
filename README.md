@@ -32,7 +32,7 @@ IntelliJ IDEA, VS Code
 
 ---
 
-## 📂 Academic Projects
+## 📂 Recent academic Projects
 - [Operating Systems](https://github.com/idocohen963/OS_2)
 - [Coup Game](https://github.com/idocohen963/CPP_EX3_coup)
 
